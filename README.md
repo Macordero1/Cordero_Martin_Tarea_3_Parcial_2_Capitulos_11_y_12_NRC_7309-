@@ -19,6 +19,12 @@
 
 ### **2.	Marco Teórico (Resumen)**
 
+![image](https://user-images.githubusercontent.com/105742149/178907622-1b8ea97f-9046-4090-b77c-1d1fad430956.png)
+
+![image](https://user-images.githubusercontent.com/105742149/178907639-4b1f82e2-60b5-4d61-8753-d8bdd66afbee.png)
+
+![image](https://user-images.githubusercontent.com/105742149/178910346-f8ffb9fc-12b8-48e4-8a3b-55d0ca0450f0.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ## **Capitulo 11**
