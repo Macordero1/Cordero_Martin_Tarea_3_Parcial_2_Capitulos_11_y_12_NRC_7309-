@@ -39,6 +39,8 @@
 
 **4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?**
 
+![image](https://user-images.githubusercontent.com/105742149/179030862-602c53a6-42d0-4c38-afed-cfe5c369b973.png)
+
 **6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?**
 
 **8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:** 
@@ -62,6 +64,8 @@
 **16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:**
 
 ![image](https://user-images.githubusercontent.com/105742149/178891992-31310b71-5290-4f25-b2fa-9e4bda10b04a.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179030965-b77fc650-6a2f-4c54-a5d4-8f4f038ece9b.png)
 
 **18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:**
 
