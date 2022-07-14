@@ -319,6 +319,8 @@ Todas las frecuencias son de 15 kHz.
 
 ### **4.	Video**
 
+https://youtu.be/oBdA-cV5H0I
+
 ### **5.	Conclusiones**
 
 * La curva constante de tiempo mundial además puede usarse para inconvenientes de descarga debido a que tiene la misma forma que las maneras de onda de la descarga. 
