@@ -11,10 +11,6 @@
 
 ### **1.	Objetivos**
 
-### **1.1.	Objetivo General**
-
-### **1.2.	Objetivos Específicos**
-
 * Comprender el papel que desempeñan las constantes de tiempo en establecer la duración de los transitorios. 
 * Explicar por qué los transitorios ocurren en circuitos RC 
 * Explicar por qué un capacitor parece un circuito abierto en estado estable de cd. 
