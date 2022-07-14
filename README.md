@@ -25,6 +25,12 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/178910346-f8ffb9fc-12b8-48e4-8a3b-55d0ca0450f0.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179011563-4340eb47-c6ba-4d24-86d8-e2ba9d93a6dc.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179013114-b91b0ebc-33a5-4d3b-921b-e7bda9f639fd.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179014785-27bd6461-dfb8-45c3-870e-c344e0f0e118.png)
+
 ### **3.	Explicación y resolución de ejercicios o problemas**
 
 ## **Capitulo 11**
@@ -61,11 +67,25 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/178892033-cdf94077-aaae-4f4d-9594-7eef96e0e501.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179014927-26d0b429-65d9-4f70-861c-62edb94a694c.png)
+![image](https://user-images.githubusercontent.com/105742149/179014963-51bae75a-ca82-4035-9457-eab6ca9eac48.png)
+![image](https://user-images.githubusercontent.com/105742149/179015086-b114f28e-c32d-41c4-bb08-78b6b06eb18e.png)
+![image](https://user-images.githubusercontent.com/105742149/179015137-5bdb4816-0d5a-4f4d-87d1-657513344c76.png)
+![image](https://user-images.githubusercontent.com/105742149/179015182-2fb56ac7-d3bc-4aa6-b263-b98e69f98ce1.png)
+![image](https://user-images.githubusercontent.com/105742149/179015229-9a468f5b-1e9e-4d92-bc57-3cff084d6d84.png)
+![image](https://user-images.githubusercontent.com/105742149/179015276-89cd99ed-f2b1-4c36-a518-be9f9b16ff72.png)
+
 **20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
+
+![image](https://user-images.githubusercontent.com/105742149/179015359-5a728d7e-8290-424e-831b-e1efaa541de9.png)
 
 **22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°**
 
 ![image](https://user-images.githubusercontent.com/105742149/178892129-59a55259-1c35-4fe4-a4c7-809d9f19d2af.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179024480-20efa20a-7301-4baa-ae0a-ebdd667a7338.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179024505-dc7a5db9-90d3-45e0-a546-ce6894c6b334.png)
 
 **24. Determine la frecuencia para cada velocidad angular:** 
 
@@ -77,27 +97,43 @@
 
 **(d) 1256 rad/s**
 
+![image](https://user-images.githubusercontent.com/105742149/179015643-d287bdb5-ac4e-4381-aed7-ab9e8a0344c0.png)
+
 **26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes**
+
+![image](https://user-images.githubusercontent.com/105742149/179015811-4786cdd1-e6fa-421b-9cd7-e5788f1354aa.png)
 
 **28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178892982-d7bc71cc-5e06-4eba-ad19-f2b472644091.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179022770-918a2131-ea89-48dd-b416-b7c86f08d8e2.png)
+
 **30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?**
+
+![image](https://user-images.githubusercontent.com/105742149/179024586-edc25735-df3d-4a57-9fdd-21fa80d9c350.png)
 
 **32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178893785-8799e2cf-ddd2-4c57-be40-3f746b19879d.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179024606-85ecd26d-2fc8-499a-a710-3871c2dbf48d.png)
+
 **34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?**
+
+![image](https://user-images.githubusercontent.com/105742149/179024686-0081b8cc-2348-47f7-86fa-c1fc6dbc5413.png)
 
 **36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86**
 
 ![image](https://user-images.githubusercontent.com/105742149/178893983-6795e6b7-b251-4263-a7fe-1fa2d8897bd5.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179024724-bfc1375c-3506-40cb-a976-4a1c39c621fb.png)
+
 **38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?**
 
 ![image](https://user-images.githubusercontent.com/105742149/178894352-44d0b077-2fcc-429a-ab4f-9e7859fcc7fc.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179024751-a1f020bf-2f9d-4762-8ab1-f9ac41cdb827.png)
 
 **40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.**
 
@@ -106,6 +142,8 @@
 **44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178894858-29061df2-de17-4739-ad0d-4b99455953b7.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179025050-022eab76-0776-4c2b-a2ec-4c2ee27fd16b.png)
 
 ## **Capitulo 12**
 
@@ -117,6 +155,8 @@
 
 **(c) 4.7 µF**
 
+![image](https://user-images.githubusercontent.com/105742149/179025090-e6b3e76c-a99e-4bd7-9699-c0e033c40c61.png)
+
 **4. Transforme los siguientes valores de farads a microfarads;**
 
 **(a) 0.0000001 F**
@@ -124,6 +164,8 @@
 **(b) 0.0022 F**
 
 **(c) 0.0000000015 F**
+
+![image](https://user-images.githubusercontent.com/105742149/179025124-b8b26ac5-4f72-4e1e-98a4-b8f9ce511260.png)
 
 **6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
 
