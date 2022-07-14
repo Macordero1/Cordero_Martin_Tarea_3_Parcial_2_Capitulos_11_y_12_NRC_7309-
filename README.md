@@ -147,10 +147,6 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/179024751-a1f020bf-2f9d-4762-8ab1-f9ac41cdb827.png)
 
-**40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.**
-
-![image](https://user-images.githubusercontent.com/105742149/178894752-4a07c37a-5875-4fbd-868b-8207c0dc222d.png)
-
 **44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178894858-29061df2-de17-4739-ad0d-4b99455953b7.png)
