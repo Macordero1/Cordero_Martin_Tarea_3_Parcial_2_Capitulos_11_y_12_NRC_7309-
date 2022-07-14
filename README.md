@@ -169,11 +169,19 @@
 
 **6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
 
+![image](https://user-images.githubusercontent.com/105742149/179026166-63e8c22c-cc14-4f6d-89ea-d98390f38499.png)
+
 **8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?**
+
+![image](https://user-images.githubusercontent.com/105742149/179026211-3f251bac-d8d9-4170-a4c0-5ffd1996ec90.png)
 
 **10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er   2.5) de 8 105 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?**
 
+![image](https://user-images.githubusercontent.com/105742149/179026255-a5eb6903-0c93-41ab-bd7b-8cf811ad4186.png)
+
 **12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
+
+![image](https://user-images.githubusercontent.com/105742149/179026299-22d2ed7c-8100-482d-8500-7c8ae7933179.png)
 
 **14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?**
 
@@ -181,11 +189,17 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/178897911-b6e21f74-ef1f-4e42-a43c-7373868be1de.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179026393-6807b4eb-955f-4bbc-8ded-80d7c0c2179d.png)
+
 **18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178897952-87c91695-bd20-4724-8c6b-ed872fa38e57.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179026438-d1fe47f8-a28d-4b86-af8d-dd25ed12deb1.png)
+
 **20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?**
+
+![image](https://user-images.githubusercontent.com/105742149/179026496-53ef37dc-34dc-451b-89c0-94e01da8eeb9.png)
 
 **22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor**
 
