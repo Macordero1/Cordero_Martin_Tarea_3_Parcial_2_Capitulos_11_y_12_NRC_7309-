@@ -217,21 +217,33 @@
 
 ![image](https://user-images.githubusercontent.com/105742149/178898014-f38413cb-f4a5-44f9-a4c9-4fa57fe9e933.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179040340-bf86e09e-006e-4df2-90b7-cd4f35e4744e.png)
+
 **24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 µC. Determine el voltaje entre las terminales de cada capacitor.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898042-b063f47c-ae0b-47af-8a0f-7f22c60be7d1.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179040245-f0f575f3-5b19-4beb-a0e3-bb2289dddc0d.png)
 
 **26. ¿Cuál es la carga en cada capacitor de la figura 12-71?**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898185-7e0c03df-79a8-45bf-a422-0b25b233c4cf.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179040422-19fa5b0d-402d-4eb7-8088-2269ea232dd1.png)
+
 **28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898249-2378f2aa-9403-43f0-b4a6-29c0bed0c43c.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179040482-43bc4404-6f42-4a5e-968b-b8d8dbff527f.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179040539-e2b1e9ba-9e6c-494b-9fa8-0ca2fb00df8a.png)
+
 **30. Determine la constante de tiempo para cada una de las combinaciones en serie:**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898312-4b55beff-f7d4-4c47-af55-86413c141cca.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179040643-5187a6b4-1fa0-4acb-bac7-a6f1141975d6.png)
 
 **32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:** 
 
@@ -245,6 +257,8 @@
 
 **(e) 50 µs**
 
+![image](https://user-images.githubusercontent.com/105742149/179040688-eeb39686-1ae5-4ada-9a71-478809e58191.png)
+
 **34. Repita el problema 32 con los siguientes intervalos de tiempo:**
 
 **(a) 2 µs**
@@ -253,35 +267,55 @@
 
 **(c) 15 µs**
 
+![image](https://user-images.githubusercontent.com/105742149/179040756-ddd31700-f219-441c-b37c-c2886e338727.png)
+
 **36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898640-02e204f3-5a54-4a1b-892d-3069a47f1bb5.png)
+
+![image](https://user-images.githubusercontent.com/105742149/179040809-1637502d-9203-4ec5-8fe7-7c8ad001679a.png)
 
 **38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898662-0bfe81f0-beb3-45ca-988a-acb71cfa4947.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179041059-7b068eb5-fe5d-4ff2-abc9-4d70fc396d54.png)
+
 **40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 µs después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898724-281587fe-0202-477c-ba6d-34f64a5d734f.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179041125-ef78ea3b-2bef-45e8-8724-733311862c50.png)
+
 **42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?**
 
-![image](https://user-images.githubusercontent.com/105742149/178898773-5fdf2c33-daad-48ed-b7e9-4f030397ba3d.png)
+![image](https://user-images.githubusercontent.com/105742149/179041205-d3eaaef0-3334-46a0-8736-bcd3cf3d2bc6.png)
 
 **44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? ¿Una XC de 1 kΩ?**
 
+![image](https://user-images.githubusercontent.com/105742149/179041264-e2a0045c-ba4c-4a0b-ae47-58b6755196c9.png)
+
 **46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 µF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?**
 
+![image](https://user-images.githubusercontent.com/105742149/179041849-8dd2c33a-9b59-47dd-a3cb-9e233ff29736.png)
+
 **48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.**
+
+![image](https://user-images.githubusercontent.com/105742149/179041824-71ef8e8f-02e4-4eb9-9477-aee4606469cb.png)
 
 **50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.**
 
 ![image](https://user-images.githubusercontent.com/105742149/178898873-198e6db9-3fe4-4767-bc3a-7a7ac4da2c2a.png)
 
+![image](https://user-images.githubusercontent.com/105742149/179041770-b1c8a0c2-c4f6-4baf-a060-8421fcd345be.png)
+
 **52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?**
 
+Todas las frecuencias son de 15 kHz.
+
 **54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?**
+
+![image](https://user-images.githubusercontent.com/105742149/179041955-543e4c65-bae9-4e7e-b034-36e790703bc9.png)
 
 ### **4.	Video**
 
